@@ -1,6 +1,7 @@
 /* clintia.com.br | JS minimo, sem dependencias: menu mobile, reveal de entrada (IntersectionObserver; o CSS decide o quanto
    anima e respeita prefers-reduced-motion), hairline do cabecalho ao rolar, linha das 4 etapas que se desenha na rolagem,
-   contadores dos numeros, progresso de leitura, TOC ativo, copiar link, dica de tabela com rolagem, formulario via mailto.
+   contadores dos numeros, casos em video, setas dos depoimentos, progresso de leitura, TOC ativo, copiar link, dica de
+   tabela com rolagem, formulario via mailto.
    Se qualquer trecho falhar, a classe .js sai do <html> e todo o conteudo fica visivel. */
 (function () {
   'use strict';
@@ -44,22 +45,7 @@
     }
   } catch (e) { mostrarTudo(); }
 
-  /* Video do hero: toca por cima da foto (poster) e entra em fade quando comeca; pausa fora da tela. Com movimento
-     reduzido continua tocando (e lento, sem corte). */
-  var hv = d.querySelector('[data-hero-video]');
-  if (hv) {
-    /* Toca tambem com movimento reduzido: e um plano lento em ida e volta, sem corte (decisao do Bernardo, 26/09). */
-    {
-      hv.muted = true;
-      hv.addEventListener('playing', function () { hv.classList.add('is-playing'); });
-      var tentar = function () { var pr = hv.play(); if (pr && pr.catch) pr.catch(function () {}); };
-      if ('IntersectionObserver' in w) {
-        new IntersectionObserver(function (es) { es.forEach(function (en) { if (en.isIntersecting) tentar(); else hv.pause(); }); }, { threshold: 0.05 }).observe(hv);
-      } else { tentar(); }
-    }
-  }
-
-  /* v3: video com carregamento leve. O poster e um link pro YouTube; com JS o clique troca pelo iframe do
+  /* Video institucional (v4; so com url no site.yaml). O poster e um link pro YouTube; com JS o clique troca pelo iframe do
      youtube-nocookie.com (autoplay) sem carregar nada do YouTube antes disso. */
   d.querySelectorAll('[data-video]').forEach(function (fig) {
     var a = fig.querySelector('.video-poster');
@@ -74,6 +60,22 @@
       a.replaceWith(f);
       try { f.focus(); } catch (err) {}
     });
+  });
+
+  /* v4: casos em video (controles nativos): tocar um pausa o outro */
+  var casos = d.querySelectorAll('video[data-caso]');
+  casos.forEach(function (v) {
+    v.addEventListener('play', function () { casos.forEach(function (o) { if (o !== v && !o.paused) o.pause(); }); });
+  });
+
+  /* v4: depoimentos em prints: setas rolam o trilho (a rolagem nativa continua valendo); com reduce a rolagem e seca */
+  d.querySelectorAll('[data-depo]').forEach(function (box) {
+    var track = box.querySelector('.depo-track'), prev = box.querySelector('[data-depo-prev]'), next = box.querySelector('[data-depo-next]');
+    if (!track || !prev || !next) return;
+    var passo = function () { var it = track.querySelector('.depo-item'); return it ? it.getBoundingClientRect().width + 20 : 320; };
+    var rola = function (dir) { track.scrollBy({ left: dir * passo(), behavior: reduce ? 'auto' : 'smooth' }); };
+    prev.addEventListener('click', function () { rola(-1); });
+    next.addEventListener('click', function () { rola(1); });
   });
 
   /* Cabecalho: hairline so depois de rolar */
