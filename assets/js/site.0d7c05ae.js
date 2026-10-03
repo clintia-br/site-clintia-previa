@@ -34,13 +34,20 @@
       if (!('IntersectionObserver' in w)) {
         reveals.forEach(function (el) { el.classList.add('is-in'); });
       } else {
+        /* v5: a secao entra quando passa de 8% da altura da tela (a entrada fica visivel); no fim da pagina entra o que faltar */
         var io = new IntersectionObserver(function (entries) {
           entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('is-in'); io.unobserve(en.target); } });
-        }, { threshold: 0.01, rootMargin: '0px' });
+        }, { threshold: 0.01, rootMargin: '0px 0px -8% 0px' });
         reveals.forEach(function (el) {
           var r = el.getBoundingClientRect();
-          if (r.top < w.innerHeight) { el.classList.add('is-in'); } else { io.observe(el); } /* qualquer secao que toque a dobra ja entra visivel */
+          if (r.top < w.innerHeight) { el.classList.add('is-in'); } else { io.observe(el); } /* qualquer secao que ja apareca na dobra entra na hora */
         });
+        var fimPagina = function () {
+          if ((w.scrollY || w.pageYOffset) + w.innerHeight >= d.documentElement.scrollHeight - 4) {
+            reveals.forEach(function (el) { if (!el.classList.contains('is-in')) { el.classList.add('is-in'); io.unobserve(el); } });
+          }
+        };
+        w.addEventListener('scroll', fimPagina, { passive: true });
       }
     }
   } catch (e) { mostrarTudo(); }
@@ -104,14 +111,69 @@
     updEtapas();
   }
 
-  /* Contadores: o numero sobe de 0 ao valor quando entra na tela (mantem prefixo, separador decimal e sufixo do texto original) */
-  var nums = d.querySelectorAll('.stat-n');
+  /* v5: parallax sutil nas fotos grandes ([data-parallax] = amplitude em px). O CSS aplica `translate: 0 var(--py)` na imagem,
+     que tem zoom de folga. Com reduce nao roda (a foto fica parada). */
+  var pars = d.querySelectorAll('[data-parallax]');
+  if (pars.length && !reduce) {
+    var updPar = function () {
+      var vh = w.innerHeight;
+      pars.forEach(function (f) {
+        var r = f.getBoundingClientRect();
+        if (r.bottom < -200 || r.top > vh + 200) return;
+        var amp = Math.min(parseFloat(f.getAttribute('data-parallax')) || 16, r.height * 0.026); /* a foto tem 6% de zoom de folga: nunca mostra a borda */
+        var k = ((r.top + r.height / 2) - vh / 2) / (vh / 2 + r.height / 2);
+        k = Math.max(-1, Math.min(1, k));
+        f.style.setProperty('--py', (-k * amp).toFixed(1) + 'px');
+      });
+    };
+    var parTick = false;
+    w.addEventListener('scroll', function () { if (!parTick) { parTick = true; raf(function () { updPar(); parTick = false; }); } }, { passive: true });
+    w.addEventListener('resize', updPar);
+    updPar();
+  }
+
+  /* v5: trilho de clientes (home). Rolagem nativa com snap (toque e trackpad); setas; arrastar com o mouse no desktop. */
+  d.querySelectorAll('[data-rail]').forEach(function (wrap) {
+    var rail = wrap.querySelector('.cli-rail'), prev = wrap.querySelector('[data-rail-prev]'), next = wrap.querySelector('[data-rail-next]');
+    if (!rail) return;
+    var passo = function () { var it = rail.querySelector('.cli'); return it ? it.getBoundingClientRect().width + 20 : 360; };
+    var rola = function (dir) { rail.scrollBy({ left: dir * passo(), behavior: reduce ? 'auto' : 'smooth' }); };
+    if (prev) prev.addEventListener('click', function () { rola(-1); });
+    if (next) next.addEventListener('click', function () { rola(1); });
+    var x0 = 0, s0 = 0, ativo = false, moveu = false;
+    rail.addEventListener('pointerdown', function (e) {
+      if (e.pointerType !== 'mouse' || e.button !== 0) return;
+      ativo = true; moveu = false; x0 = e.clientX; s0 = rail.scrollLeft;
+    });
+    w.addEventListener('pointermove', function (e) {
+      if (!ativo) return;
+      var dx = e.clientX - x0;
+      if (!moveu && Math.abs(dx) > 4) { moveu = true; rail.classList.add('is-dragging'); }
+      if (moveu) { rail.scrollLeft = s0 - dx; e.preventDefault(); }
+    });
+    var solta = function () {
+      if (!ativo) return;
+      ativo = false;
+      if (moveu) {
+        rail.classList.remove('is-dragging');
+        var p = passo(), alvo = Math.round(rail.scrollLeft / p) * p;
+        rail.scrollTo({ left: alvo, behavior: reduce ? 'auto' : 'smooth' });
+      }
+    };
+    w.addEventListener('pointerup', solta);
+    w.addEventListener('pointercancel', solta);
+    rail.addEventListener('click', function (e) { if (moveu) { e.preventDefault(); e.stopPropagation(); moveu = false; } }, true);
+  });
+
+  /* Contadores: o numero sobe de 0 ao valor quando entra na tela (mantem prefixo, separador decimal e sufixo do texto original).
+     v5: vale para .stat-n e [data-count]; com reduce continua (um pouco mais lento, sem outro movimento junto). */
+  var nums = d.querySelectorAll('.stat-n, [data-count]');
   if (nums.length && 'IntersectionObserver' in w) {
     var contar = function (el) {
       var txt = el.textContent.trim(), m = txt.match(/^([^0-9]*)(\d+)(?:([.,])(\d+))?(.*)$/);
       if (!m) return;
       var pre = m[1], sep = m[3] || '', dec = m[4] ? m[4].length : 0, suf = m[5];
-      var fim = parseFloat(m[2] + (m[4] ? '.' + m[4] : '')), dur = reduce ? 500 : 1100, t0 = null;
+      var fim = parseFloat(m[2] + (m[4] ? '.' + m[4] : '')), dur = reduce ? 1600 : 1400, t0 = null;
       var fmt = function (v) { var s = v.toFixed(dec); if (sep) s = s.replace('.', sep); return pre + s + suf; };
       var passo = function (ts) {
         if (!t0) t0 = ts;

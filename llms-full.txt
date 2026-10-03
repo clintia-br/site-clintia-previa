@@ -1,6 +1,6 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia-br.github.io/site-clintia-previa/ · gerado em 2026-10-02
+Fonte: https://clintia-br.github.io/site-clintia-previa/ · gerado em 2026-10-03
 
 ---
 
@@ -8,15 +8,15 @@ Fonte: https://clintia-br.github.io/site-clintia-previa/ · gerado em 2026-10-02
 
 URL: https://clintia-br.github.io/site-clintia-previa/
 
-A ClintIA entra na sua clínica popular e resolve o marketing e o comercial: da geração de demanda até a venda na recepção, pela mesma equipe.
+Marketing e gestão comercial para clínica popular: a ClintIA entra na clínica e estrutura a geração de demanda e a venda na recepção.
 
 Da geração de demanda até a venda na recepção. A gente entra na clínica e estrutura as duas pontas, com a equipe que você já tem.
 
 O que muda pra quem é dono: sai do operacional, passa a ter os números da clínica na mão e para de depender de indicação e de achismo.
 
-Quem já trabalhou com a gente: Policlínica Alpha, Bandeirantes Diagnósticos, Clínica Mais Vida, Clínica Orel, Clínica de Olhos Benchimol, SaúdeVida, Clínica Bem-Estar, Unimedic, Life Wallet, Clínica Mais Med, Cantároz, Eladium
+Clínicas populares e redes de saúde que já trabalharam com a gente: Bandeirantes Diagnósticos, Clínica Mais Vida, Unimedic, SaúdeVida, Policlínica Alpha, Clínica Bem-Estar, Clínica de Olhos Benchimol, Clínica Mais Med, Clínica Orel, Centro Médico Três Elementos, Meu ParceiRO, Ciclos Psicologia e Terapias, Clínica Saúde Sempre, Clínica Leve Mais, Cantároz, Eladium
 
-## Chega gente todo dia. E no fim do mês a conta continua apertada.
+## Na clínica popular chega gente todo dia. E no fim do mês a conta continua apertada.
 
 A maioria das clínicas populares que chega até a gente não tem falta de paciente. Tem paciente chegando num lugar que não está preparado pra atender, e um dono que decide no escuro.
 
@@ -31,7 +31,9 @@ A maioria das clínicas populares que chega até a gente não tem falta de pacie
 
 ### Se você se reconhece em três dessas, isso é pra você.
 
-## A gente estrutura as duas pontas: quem traz o paciente e quem fecha a consulta.
+O paciente de clínica popular paga o que cabe no bolso. Mas a clínica tem que mostrar por que vale a pena.
+
+## As duas pontas da clínica popular: quem traz o paciente e quem fecha a consulta.
 
 ### Geração de demanda
 
@@ -49,7 +51,7 @@ A maioria das clínicas populares que chega até a gente não tem falta de pacie
 
 Clínica popular precisa das duas frentes, marketing e comercial, como qualquer negócio. Pior do que não gerar demanda é gerar demanda errada.
 
-## Quatro etapas, na ordem certa
+## Quatro etapas, na ordem certa, para a clínica popular crescer
 
 Uma etapa alimenta a outra. Pular uma delas é o que faz o dinheiro de anúncio virar clique e não paciente.
 
@@ -60,46 +62,42 @@ Uma etapa alimenta a outra. Pular uma delas é o que faz o dinheiro de anúncio 
 
 Tudo fica num lugar só, no celular ou no computador: o que foi feito, o que vem depois e o número de cada campanha.
 
-## Onde estava o gargalo: dois casos, gravados em reunião
+## Onde estava o gargalo: dois casos de clínica popular, gravados em reunião
 
 Trechos de reunião com donos de clínica popular, publicados com autorização. Toque pra ouvir.
 
-- Caso 1 · dona de clínica popular: A conta que ninguém faz. **Gargalo:** demanda que existe e não chega até a cadeira. Na conta feita na reunião, R$ 704 mil por mês escapando.
+- Caso 1 · dona de clínica popular: A conta que ninguém faz. **Gargalo:** demanda que existe e não chega até a cadeira.
 - Caso 2 · dono de clínica popular: Vender bem não é dom. **Gargalo:** o comercial depende do dono, e ele mesmo diz que não sabe vender. Venda é processo, e processo se ensina.
 
 
-## Clínicas que a gente atende
+## Clínicas populares e redes que a gente atende
 
-A fachada, a cidade e uma linha do que a gente faz em cada uma.
+A foto é da clínica de verdade. Embaixo, a cidade e uma linha do que a gente faz lá.
 
+- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
 - Clínica Mais Vida (Nova Iguaçu, RJ): Clínica popular com duas unidades. Posicionamento, site, ficha do Google e campanhas nas duas unidades. Na sequência, a recepção com processo e o número de cada canal na mão do dono.
 - Unimedic (Cabo Frio, RJ): Clínica popular recém-inaugurada, com clube de benefícios. Posicionamento, ficha do Google, site, Instagram e o funil comercial da recepção, com o clube de benefícios comunicado dentro desses mesmos canais.
 - SaúdeVida (Santos, SP): Rede de cartão de benefícios com unidades próprias. Projeto de expansão da rede, começando pela rotina comercial que já existe nas unidades: roteiros por origem do contato e treinamento de quem vende.
 - Clínica Mais Med (Ipiaú, BA): Clínica popular. Implantação: ficha do Google, site, campanhas no Google e na Meta, Instagram e o CRM da recepção, com a gestão mensal de campanhas e conteúdo na sequência.
-- Clínica Orel (Rio de Janeiro, RJ): Clínica de especialidade. Gestão de marketing mensal, treinamento da equipe de atendimento no WhatsApp e um projeto de autoridade em busca por IA.
 - Policlínica Alpha (Campina Grande, PB): Policlínica com mais de uma unidade. Gestão de campanhas no Google e na Meta por especialidade, com os números das campanhas lidos ao vivo e o rastreamento de origem de cada paciente em andamento.
-- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
 - Clínica Bem-Estar (Lauro de Freitas, BA): Clínica de consultas e exames. Implantação completa: posicionamento, ficha do Google, site, campanhas, Instagram, CRM na recepção e o painel com os números.
+- Centro Médico Três Elementos (Salvador, BA): Centro médico com consultas e exames. Site, conta de anúncios e campanhas na Meta por especialidade, montados do zero. O CRM da recepção é a etapa em andamento.
+- Clínica Saúde Sempre (Goiânia, GO): Clínica popular. Sprint comercial: a fila do WhatsApp organizada, o CRM com os orçamentos em aberto, o treinamento da recepção e do agendamento e as metas da equipe.
 - Clínica de Olhos Benchimol (Rio de Janeiro, RJ): Clínica de especialidade. Projeto de autoridade em busca por IA: medir como a clínica aparece quando o paciente pergunta a uma IA e trabalhar o que ela precisa pra ser citada.
-- Life Wallet: Aplicativo de histórico de saúde. Posicionamento e material de venda pra o aplicativo chegar a quem já reúne muitas vidas: convênios, cartões de saúde e clínicas populares.
-
-## Prints das conversas, como chegaram
-
-Mensagens de donos de clínica popular que aplicam o método. Arraste pro lado pra ver todos.
-
-- De 180 pra 340 agendamentos novos no mês. "Não aumentei quase nada no investimento."
-- Custo por agendamento: de quase R$ 22 pra R$ 8. "A gente tava jogando dinheiro fora sem saber."
-- "Eu era super cética. Já tinha queimado dinheiro com 2 agências. Agora sei de onde vem cada paciente."
-- "Minha recepção parou de reclamar do WhatsApp bagunçado, o follow-up tá automático."
-- "Tô contratando mais uma recepcionista porque a demanda aumentou. Isso é real."
-
+- Ciclos Psicologia e Terapias (São Paulo, SP): Clínica de psicologia e terapias. Site novo, ficha do Google e campanhas, com o texto de cada canal dentro das regras do conselho de psicologia.
+- Meu ParceiRO (Rio das Ostras, RJ): Clube de benefícios em saúde, com clínica parceira. Posicionamento, ficha do Google e o rastreamento das campanhas de adesão do clube, com site e páginas novas em aprovação.
 
 ## Bernardo Carneiro
 
-Formado em Estatística pela UFF, estruturou marketing pela primeira vez na UFFinance, a empresa júnior da faculdade. Depois entrou na MarketMED, a primeira agência de marketing médico do Brasil, onde montou e liderou o setor digital. Foi ali que começou a chegar dono de clínica popular pedindo ajuda, e foi daí que a ClintIA nasceu.
-Hoje ele responde pelo diagnóstico de toda clínica que entra e apresenta um podcast sobre gestão e marketing em saúde.
+Formado em Estatística pela UFF, estruturou marketing pela primeira vez na UFFinance, a empresa júnior da faculdade. Depois foi pra MarketMED, a primeira agência de marketing médico do Brasil, onde montou e liderou o setor digital. Foi ali que o dono de clínica popular começou a chegar pedindo ajuda.
+Da Estatística veio o jeito de trabalhar: marketing se decide com número, não com achismo. O diagnóstico de toda clínica que entra passa por ele, e começa pela conta de quanto custa cada paciente.
+O resto do tempo vai pro produto: lapidar o que a gente entrega até caber na rotina de uma clínica que atende muito e cobra pouco por consulta. O propósito é profissionalizar o marketing e o comercial das clínicas que atendem o povo.
 
-## Quem faz o trabalho dentro da clínica
+Quanto custa o clique, quanto custa quem entra em contato, quanto custa quem agendou e foi: isso vem com dado, com CRM.
+
+Bernardo, em reunião com dono de clínica
+
+## Quem faz o trabalho dentro da clínica popular
 
 Quem fala com a sua clínica é quem executa. O Bernardo responde pelo diagnóstico; a entrega é destas frentes.
 
@@ -112,13 +110,13 @@ Quem fala com a sua clínica é quem executa. O Bernardo responde pelo diagnóst
 
 Parte do time é tecnologia que a gente mesmo construiu. Ela organiza o projeto e lê os números das campanhas. Quem decide e revisa é gente.
 
-## O que a gente aprende dentro das clínicas
+## O que a gente aprende dentro das clínicas populares
 
 Escrito pra quem toma a decisão.
 
-## Perguntas diretas, respostas diretas
+## Perguntas sobre marketing e comercial de clínica popular
 
-## Continuar no improviso, ou tocar a clínica como as grandes tocam.
+## Continuar no improviso, ou tocar a clínica popular como as grandes redes tocam.
 
 O improviso você já sabe quanto custa: é o fim de mês apertado de sempre. A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente devolve um diagnóstico com o que dá pra fazer primeiro.
 
@@ -182,7 +180,12 @@ Não existe um quadro de valores na ClintIA. Existe o que se repete nas reuniõe
 ## Bernardo Carneiro
 
 O Bernardo se formou em Estatística na UFF e passou também por Finanças e Empreendedorismo na mesma universidade. Foi na UFFinance, a empresa júnior da faculdade, que ele estruturou um setor de marketing pela primeira vez. Dali foi pra MarketMED, a primeira agência de marketing médico do Brasil, empresa da família fundada em 2001. Entrou pra montar o setor digital e passou a liderar essa área.
-Foi olhando o que separava a clínica popular que crescia da que ficava parada na mesma rua que ele escreveu o método em quatro etapas, na ordem em que precisam acontecer. Hoje ele responde pelo diagnóstico de toda clínica que entra na ClintIA e apresenta um podcast sobre gestão e marketing em saúde.
+Foi olhando o que separava a clínica popular que crescia da que ficava parada na mesma rua que ele escreveu o método em quatro etapas, na ordem em que precisam acontecer. Da Estatística veio o jeito de decidir: com número, não com achismo. Hoje ele responde pelo diagnóstico de toda clínica que entra na ClintIA e apresenta um podcast sobre gestão e marketing em saúde.
+O resto do tempo vai pro produto: lapidar o que a gente entrega até caber na rotina de uma clínica popular, que atende muito e cobra pouco por consulta. O propósito é o da empresa: profissionalizar o marketing e o comercial das clínicas que atendem o povo.
+
+Quanto custa o clique, quanto custa quem entra em contato, quanto custa quem agendou e foi: isso vem com dado, com CRM.
+
+Bernardo, em reunião com dono de clínica
 
 ## Uma equipe que só atende clínica popular
 
@@ -234,7 +237,7 @@ Geração de demanda e área comercial, as duas pontas da clínica popular, em 4
 
 Da geração de demanda até a venda na recepção. A gente entra na clínica, arruma as duas pontas na ordem certa e deixa o dono com os números na mão.
 
-## Quem traz o paciente e quem fecha a consulta
+## As duas pontas da clínica popular: quem traz o paciente e quem fecha a consulta
 
 Clínica popular precisa das duas frentes, marketing e comercial, como qualquer negócio. Uma sem a outra é dinheiro de anúncio virando clique, ou recepção boa atendendo uma agenda vazia.
 
@@ -256,7 +259,7 @@ Clínica popular precisa das duas frentes, marketing e comercial, como qualquer 
 
 Pior do que não gerar demanda é gerar demanda errada. Por isso a ponta 2 é montada junto com a ponta 1, e não depois que a verba já foi gasta.
 
-## Quatro etapas, na ordem certa
+## Quatro etapas, na ordem certa, para a clínica popular crescer
 
 Uma etapa alimenta a outra. Pular uma delas é o que faz o dinheiro de anúncio virar clique e não paciente.
 
@@ -267,7 +270,7 @@ Uma etapa alimenta a outra. Pular uma delas é o que faz o dinheiro de anúncio 
 
 Tudo fica num lugar só, no celular ou no computador: o cronograma do projeto, o que foi feito, o que vem depois e o número de cada campanha.
 
-## Três jeitos de levar isso pra sua clínica
+## Três jeitos de levar isso pra sua clínica popular
 
 O trabalho é o mesmo. O que muda é quem executa e o tamanho da operação.
 
@@ -319,49 +322,40 @@ O PROClip foi desenhado pra clínica com uma ou poucas unidades do mesmo dono. Q
 
 ---
 
-# Clínicas que a gente atende
+# Clínicas populares que a gente atende
 
 URL: https://clintia-br.github.io/site-clintia-previa/clientes/
 
-As clínicas populares, redes e empresas de saúde que trabalham com a ClintIA: a fachada, a cidade e o que a gente faz em cada uma.
+As clínicas populares, redes de diagnóstico e clínicas de especialidade que trabalham com a ClintIA: a foto, a cidade e o que a gente faz em cada uma.
 
-Clínica popular de bairro, rede de diagnóstico, clínica de especialidade e empresa de saúde. Abaixo, o que a gente faz em cada uma, sem número que a gente não consiga provar.
+Clínica popular de bairro, rede de diagnóstico, clínica de especialidade e clube de benefícios. Abaixo, o que a gente faz em cada uma, sem número que a gente não consiga provar.
 
-## O que a gente faz em cada clínica
+## O que a gente faz em cada clínica popular e rede
 
-A foto é a fachada ou a entrada real da clínica. A linha abaixo dela é o escopo do trabalho, como está no projeto. Quem ainda não mandou foto aparece só com a marca.
+A foto é da clínica de verdade, sem gente na frente. A linha abaixo dela é o escopo do trabalho, como está no projeto. Quem ainda não mandou foto aparece com a marca.
 
+- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
 - Clínica Mais Vida (Nova Iguaçu, RJ): Clínica popular com duas unidades. Posicionamento, site, ficha do Google e campanhas nas duas unidades. Na sequência, a recepção com processo e o número de cada canal na mão do dono.
 - Unimedic (Cabo Frio, RJ): Clínica popular recém-inaugurada, com clube de benefícios. Posicionamento, ficha do Google, site, Instagram e o funil comercial da recepção, com o clube de benefícios comunicado dentro desses mesmos canais.
 - SaúdeVida (Santos, SP): Rede de cartão de benefícios com unidades próprias. Projeto de expansão da rede, começando pela rotina comercial que já existe nas unidades: roteiros por origem do contato e treinamento de quem vende.
 - Clínica Mais Med (Ipiaú, BA): Clínica popular. Implantação: ficha do Google, site, campanhas no Google e na Meta, Instagram e o CRM da recepção, com a gestão mensal de campanhas e conteúdo na sequência.
-- Clínica Orel (Rio de Janeiro, RJ): Clínica de especialidade. Gestão de marketing mensal, treinamento da equipe de atendimento no WhatsApp e um projeto de autoridade em busca por IA.
 - Policlínica Alpha (Campina Grande, PB): Policlínica com mais de uma unidade. Gestão de campanhas no Google e na Meta por especialidade, com os números das campanhas lidos ao vivo e o rastreamento de origem de cada paciente em andamento.
-- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
 - Clínica Bem-Estar (Lauro de Freitas, BA): Clínica de consultas e exames. Implantação completa: posicionamento, ficha do Google, site, campanhas, Instagram, CRM na recepção e o painel com os números.
+- Centro Médico Três Elementos (Salvador, BA): Centro médico com consultas e exames. Site, conta de anúncios e campanhas na Meta por especialidade, montados do zero. O CRM da recepção é a etapa em andamento.
+- Clínica Saúde Sempre (Goiânia, GO): Clínica popular. Sprint comercial: a fila do WhatsApp organizada, o CRM com os orçamentos em aberto, o treinamento da recepção e do agendamento e as metas da equipe.
 - Clínica de Olhos Benchimol (Rio de Janeiro, RJ): Clínica de especialidade. Projeto de autoridade em busca por IA: medir como a clínica aparece quando o paciente pergunta a uma IA e trabalhar o que ela precisa pra ser citada.
-- Life Wallet: Aplicativo de histórico de saúde. Posicionamento e material de venda pra o aplicativo chegar a quem já reúne muitas vidas: convênios, cartões de saúde e clínicas populares.
+- Ciclos Psicologia e Terapias (São Paulo, SP): Clínica de psicologia e terapias. Site novo, ficha do Google e campanhas, com o texto de cada canal dentro das regras do conselho de psicologia.
+- Meu ParceiRO (Rio das Ostras, RJ): Clube de benefícios em saúde, com clínica parceira. Posicionamento, ficha do Google e o rastreamento das campanhas de adesão do clube, com site e páginas novas em aprovação.
 
-## Prints das conversas, como chegaram
-
-Mensagens de donos de clínica popular que aplicam o método. Arraste pro lado pra ver todos.
-
-- De 180 pra 340 agendamentos novos no mês. "Não aumentei quase nada no investimento."
-- Custo por agendamento: de quase R$ 22 pra R$ 8. "A gente tava jogando dinheiro fora sem saber."
-- "Eu era super cética. Já tinha queimado dinheiro com 2 agências. Agora sei de onde vem cada paciente."
-- "Minha recepção parou de reclamar do WhatsApp bagunçado, o follow-up tá automático."
-- "Tô contratando mais uma recepcionista porque a demanda aumentou. Isso é real."
-
-
-## Onde estava o gargalo: dois casos, gravados em reunião
+## Onde estava o gargalo: dois casos de clínica popular, gravados em reunião
 
 Trechos de reunião com donos de clínica popular, publicados com autorização. Toque pra ouvir.
 
-- Caso 1 · dona de clínica popular: A conta que ninguém faz. **Gargalo:** demanda que existe e não chega até a cadeira. Na conta feita na reunião, R$ 704 mil por mês escapando.
+- Caso 1 · dona de clínica popular: A conta que ninguém faz. **Gargalo:** demanda que existe e não chega até a cadeira.
 - Caso 2 · dono de clínica popular: Vender bem não é dom. **Gargalo:** o comercial depende do dono, e ele mesmo diz que não sabe vender. Venda é processo, e processo se ensina.
 
 
-## Quer a sua clínica nessa lista?
+## Quer a sua clínica popular nessa lista?
 
 A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente devolve um diagnóstico com o que dá pra fazer primeiro.
 
@@ -385,7 +379,7 @@ O método é o que as grandes redes de clínica popular usam pra crescer, como A
 
 Marcas citadas como referência pública de modelo de negócio. Não há vínculo, parceria ou endosso entre elas e a ClintIA.
 
-## As 4 etapas, dentro da sua clínica
+## As 4 etapas, dentro da sua clínica popular
 
 Uma etapa alimenta a outra, e a ordem é essa. Abaixo, o que a nossa equipe monta em cada uma ao longo da implantação, e o que muda na clínica quando a etapa está de pé.
 

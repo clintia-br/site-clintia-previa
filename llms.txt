@@ -6,7 +6,7 @@ Fatos principais:
 - Duas pontas: geração de demanda (posicionamento, ficha do Google, site, anúncios no Google e na Meta com rastreamento, Instagram como vitrine) e área comercial (CRM no WhatsApp da recepção, primeira resposta em minutos, treinamento da recepção, follow-up, reativação e os números da clínica).
 - Método em 4 etapas, na ordem certa: 1 Posicionamento forte (ser a escolha de quem procura clínica popular), 2 Demanda qualificada (chegar no paciente certo, pelo canal certo), 3 Cultura de venda (conduzir quem chega até a cadeira) e 4 Controle (colocar tudo em número e saber onde mexer).
 - Três jeitos de contratar: O Manual da Clínica Popular (o método no papel, com área de membros, ferramentas e a primeira comunidade de donos de clínica popular, mais de 80 membros), PROClip (implantação feita pela equipe da ClintIA dentro da clínica, no prazo definido no diagnóstico) e projeto sob medida para redes e multiunidade.
-- Clientes: Clínica Mais Vida (Nova Iguaçu, RJ), Unimedic (Cabo Frio, RJ), SaúdeVida (Santos, SP), Clínica Mais Med (Ipiaú, BA), Clínica Orel (Rio de Janeiro, RJ), Policlínica Alpha (Campina Grande, PB), Bandeirantes Diagnósticos (Rio de Janeiro, RJ), Clínica Bem-Estar (Lauro de Freitas, BA), Clínica de Olhos Benchimol (Rio de Janeiro, RJ), Life Wallet.
+- Clientes: Bandeirantes Diagnósticos (Rio de Janeiro, RJ), Clínica Mais Vida (Nova Iguaçu, RJ), Unimedic (Cabo Frio, RJ), SaúdeVida (Santos, SP), Clínica Mais Med (Ipiaú, BA), Policlínica Alpha (Campina Grande, PB), Clínica Bem-Estar (Lauro de Freitas, BA), Centro Médico Três Elementos (Salvador, BA), Clínica Saúde Sempre (Goiânia, GO), Clínica de Olhos Benchimol (Rio de Janeiro, RJ), Ciclos Psicologia e Terapias (São Paulo, SP), Meu ParceiRO (Rio das Ostras, RJ).
 - Valores que aparecem na prática: verdade, coragem, obsessão pelo cliente, orquestrar a IA e olhar humano no fim.
 - Fundador: Bernardo Carneiro, formado em Estatística pela UFF; montou e liderou o setor digital da MarketMED, primeira agência de marketing médico do Brasil; apresenta um podcast sobre gestão e marketing em saúde.
 - Idioma do site: português do Brasil.
@@ -14,13 +14,13 @@ Fatos principais:
 
 ## Páginas institucionais
 
-- [Marketing e comercial da clínica popular](https://clintia-br.github.io/site-clintia-previa/): o que a ClintIA faz e para quem
+- [Marketing e comercial para clínica popular](https://clintia-br.github.io/site-clintia-previa/): o que a ClintIA faz e para quem
 - [Quem somos e por que só clínica popular](https://clintia-br.github.io/site-clintia-previa/sobre/): por que a ClintIA existe, por que só clínica popular, valores, fundador e equipe
 - [O que a gente faz na clínica popular](https://clintia-br.github.io/site-clintia-previa/o-que-a-gente-faz/): as duas pontas (demanda e comercial), as 4 etapas e os três jeitos de contratar
-- [Clínicas que a gente atende](https://clintia-br.github.io/site-clintia-previa/clientes/): as clínicas atendidas, com a cidade e o que a ClintIA faz em cada uma
+- [Clínicas populares que a gente atende](https://clintia-br.github.io/site-clintia-previa/clientes/): as clínicas atendidas, com a cidade e o que a ClintIA faz em cada uma
 - [PROClip: o método implantado na clínica popular](https://clintia-br.github.io/site-clintia-previa/proclip/): implantação feita pela equipe, como funciona, para quem é
 - [O Manual da Clínica Popular: o método no papel](https://clintia-br.github.io/site-clintia-previa/manual/): o método no papel, com área de membros e comunidade de donos de clínica popular
-- [Fale com a gente pelo WhatsApp](https://clintia-br.github.io/site-clintia-previa/contato/): WhatsApp e e-mail
+- [Fale com a gente sobre a sua clínica popular](https://clintia-br.github.io/site-clintia-previa/contato/): WhatsApp e e-mail
 
 ## Blog
 
