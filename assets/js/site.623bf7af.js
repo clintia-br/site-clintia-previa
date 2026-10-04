@@ -10,21 +10,27 @@
   var raf = w.requestAnimationFrame || function (f) { return setTimeout(f, 16); };
   var mostrarTudo = function () { d.documentElement.classList.remove('js'); };
 
-  /* Menu mobile */
+  /* Menu mobile (v7.3): painel abaixo do cabecalho. Fecha no botao do cabecalho (que vira X), no "Fechar" do painel, tocando
+     fora do painel, escolhendo um item e com Esc. A rolagem do fundo so trava enquanto esta aberto. */
   var btn = d.querySelector('.menu-btn'), drawer = d.getElementById('menu-drawer');
   if (btn && drawer) {
     var open = false;
-    var setMenu = function (on) {
+    var setMenu = function (on, semFoco) {
       open = on;
       btn.setAttribute('aria-expanded', on ? 'true' : 'false');
       btn.setAttribute('aria-label', on ? 'Fechar menu' : 'Abrir menu');
       drawer.hidden = !on;
       d.body.classList.toggle('menu-open', on);
-      if (on) { var first = drawer.querySelector('a'); if (first) first.focus(); } else { btn.focus(); }
+      if (on) { var first = drawer.querySelector('.menu-list a'); if (first) first.focus(); } else if (!semFoco) { btn.focus(); }
     };
     btn.addEventListener('click', function () { setMenu(!open); });
+    drawer.addEventListener('click', function (e) {
+      if (e.target === drawer || e.target.closest('[data-menu-close]')) { setMenu(false); return; }
+      if (e.target.closest('a')) setMenu(false, true); /* escolheu um item: fecha e deixa o link seguir */
+    });
     d.addEventListener('keydown', function (e) { if (e.key === 'Escape' && open) setMenu(false); });
-    w.addEventListener('resize', function () { if (open && w.innerWidth >= 1024) setMenu(false); });
+    w.addEventListener('resize', function () { if (open && w.innerWidth >= 1024) setMenu(false, true); });
+    w.addEventListener('pageshow', function () { if (open) setMenu(false, true); });
   }
 
   /* Reveal de entrada. O que esta na primeira dobra entra na hora; o resto entra quando aparece. Sem IntersectionObserver, tudo visivel. */
@@ -258,7 +264,7 @@
       var msg = form.querySelector('.form-msg'), get = function (n) { var el = form.querySelector('[name="' + n + '"]'); return el ? el.value.trim() : ''; };
       if (get('site')) return; /* honeypot */
       if (!get('nome') || !get('email')) { if (msg) { msg.textContent = 'Preencha pelo menos nome e e-mail.'; msg.classList.add('is-error'); } return; }
-      var body = ['Nome: ' + get('nome'), 'E-mail: ' + get('email'), 'WhatsApp: ' + get('whatsapp'), 'Clínica: ' + get('clinica'), '', get('mensagem')].join('\n');
+      var body = ['Nome: ' + get('nome'), 'E-mail: ' + get('email'), 'Telefone: ' + get('telefone'), 'Clínica: ' + get('clinica'), '', get('mensagem')].join('\n');
       var href = 'mailto:' + form.getAttribute('data-mailto') + '?subject=' + encodeURIComponent('Contato pelo site: ' + get('clinica') || 'Contato pelo site') + '&body=' + encodeURIComponent(body);
       if (msg) { msg.classList.remove('is-error'); msg.textContent = 'Abrindo o seu aplicativo de e-mail. Se nada acontecer, escreva para ' + form.getAttribute('data-mailto') + '.'; }
       w.location.href = href;

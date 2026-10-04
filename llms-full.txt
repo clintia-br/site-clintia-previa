@@ -1,6 +1,6 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia-br.github.io/site-clintia-previa/ · gerado em 2026-10-03
+Fonte: https://clintia-br.github.io/site-clintia-previa/ · gerado em 2026-10-04
 
 ---
 
@@ -76,7 +76,7 @@ A Comunidade do Manual da Clínica Popular reúne mais de 80 donos trocando o qu
 
 ### PROClip
 
-Programa especializado em clínica popular. A nossa equipe entra na clínica, levanta todos os gargalos e resolve o marketing e o comercial, com liderança e plano de ação.
+Programa de implementação da estrutura de marketing e comercial da clínica popular. A nossa equipe entra na clínica, levanta os gargalos e implementa, com liderança e plano de ação.
 
 - Diagnóstico da operação inteira, antes de qualquer proposta.
 - Plano de ação com responsável e prazo.
@@ -99,19 +99,22 @@ O que muda: a clínica mostra o valor que tem sem depender de preço.
 ### 2. Demanda qualificada
 
 Chegar no paciente certo, do jeito certo.
-Sabendo quem é o paciente, dá pra descobrir onde ele está e como falar com ele. Só aí faz sentido pensar em anúncio. Antes disso, é dinheiro jogado fora.
+Sabendo quem é o paciente, dá pra descobrir onde ele está e como falar com ele. Só aí faz sentido pensar em rede social e em anúncio, escolhendo os canais certos, os que trazem o paciente certo. Antes disso, é dinheiro jogado fora.
+Demanda qualificada não é mais mensagem chegando. É chegar quem a clínica quer atender, no volume que a agenda comporta.
 O que muda: o dinheiro de anúncio traz quem a clínica quer atender.
 
 ### 3. Cultura de venda
 
-Conduzir quem chega até a cadeira.
-É onde a maioria perde dinheiro sem perceber: o paciente pergunta quanto é, recebe o preço e some. Aqui a recepção deixa de só atender e passa a conduzir o paciente até a cadeira.
-O que muda: quem procurou a clínica vira consulta marcada.
+Um setor de vendas dentro da clínica.
+É onde a maioria perde dinheiro sem perceber. O paciente chegou, perguntou quanto é, a recepção respondeu o preço e sumiu. Não adianta a demanda chegar se ninguém conduz esse paciente até o agendamento.
+Por isso a clínica popular precisa ter um **setor de vendas**. Quem procura a clínica passa por um processo comercial até virar **consulta, exame e cartão de benefícios** vendidos. A recepção deixa de só atender.
+O que muda: quem procurou a clínica vira consulta, exame ou cartão vendido.
 
 ### 4. Controle
 
 Tudo em número, pra saber onde mexer.
-Com a demanda chegando e o comercial convertendo, tudo vira número. É ele que mostra se o problema está no marketing ou no comercial. Sem número, o dono decide no escuro.
+Com a demanda chegando e o comercial convertendo, tudo vira número: quanto custou trazer cada paciente, quantos entraram em contato, quantos agendaram e foram.
+É isso que mostra se o problema está no marketing ou no comercial, e onde mexer. Sem número, o dono decide no escuro.
 O que muda: a decisão sai da sensação e vai pro número.
 
 O vídeo das etapas está sendo gravado. Enquanto isso, cada etapa está explicada na página Quem somos.
@@ -126,20 +129,20 @@ Dois trechos de reunião de diagnóstico. Em cada um, o momento em que o dono en
 
 ## Clínicas populares e redes que a gente atende
 
-Fotos das próprias clínicas. Embaixo, a cidade e o que a gente faz em cada uma.
+Fotos das próprias clínicas. Embaixo de cada uma, quem ela é, o desafio e o que a gente faz.
 
-- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
-- Clínica Mais Med (Ipiaú, BA): Clínica popular. Implantação: ficha do Google, site, campanhas no Google e na Meta, Instagram e o CRM da recepção, com a gestão mensal de campanhas e conteúdo na sequência.
-- SaúdeVida (Santos, SP): Rede de cartão de benefícios com unidades próprias. Projeto de expansão da rede, começando pela rotina comercial que já existe nas unidades: roteiros por origem do contato e treinamento de quem vende.
-- Clínica Mais Vida (Nova Iguaçu, RJ): Clínica popular com duas unidades. Posicionamento, site, ficha do Google e campanhas nas duas unidades. Na sequência, a recepção com processo e o número de cada canal na mão do dono.
-- Centro Médico Três Elementos (Salvador, BA): Centro médico com consultas e exames. Site, conta de anúncios e campanhas por especialidade, montados do zero. O CRM da recepção é a etapa em andamento.
-- Unimedic (Cabo Frio, RJ): Clínica popular recém-inaugurada, com clube de benefícios. Posicionamento, ficha do Google, site, Instagram e o funil comercial da recepção, com o clube de benefícios comunicado dentro desses mesmos canais.
-- Policlínica Alpha (João Pessoa, PB): Policlínica com mais de uma unidade. Gestão de campanhas no Google e na Meta por especialidade, com os números das campanhas lidos ao vivo e o rastreamento de origem de cada paciente em andamento.
-- Clínica Bem-Estar (Lauro de Freitas, BA): Clínica de consultas e exames. Implantação completa: posicionamento, ficha do Google, site, campanhas, Instagram, CRM na recepção e o painel com os números.
-- Clínica Saúde Sempre (Goiânia, GO): Clínica popular. Sprint comercial: a fila do WhatsApp organizada, o CRM com os orçamentos em aberto, o treinamento da recepção e do agendamento e as metas da equipe.
-- Clínica de Olhos Benchimol (Rio de Janeiro, RJ): Clínica de especialidade. Projeto de autoridade em busca por IA: medir como a clínica aparece quando o paciente pergunta a uma IA e trabalhar o que ela precisa pra ser citada.
-- Ciclos Psicologia e Terapias (São Paulo, SP): Clínica de psicologia e terapias. Site novo, ficha do Google e campanhas, com o texto de cada canal dentro das regras do conselho de psicologia.
-- Meu ParceiRO (Rio das Ostras, RJ): Clube de benefícios em saúde, com clínica parceira. Posicionamento, ficha do Google e o rastreamento das campanhas de adesão do clube, com site e páginas novas em aprovação.
+- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Rede de diagnóstico com sete unidades na Zona Oeste e na Zona Norte do Rio. Desafio: Dar presença digital a cada unidade e organizar o comercial da rede. O que a gente faz: Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
+- Clínica Mais Med (Ipiaú, BA): Clínica popular. Clínica popular de uma unidade, fundada por um pediatra, no interior da Bahia. Desafio: Montar a estrutura digital do zero e levar a recepção pro CRM. O que a gente faz: Implantação: ficha do Google, site, campanhas no Google e na Meta, Instagram e o CRM da recepção, com a gestão mensal de campanhas e conteúdo na sequência.
+- SaúdeVida (Santos, SP): Rede de cartão de benefícios com unidades próprias. Convênio próprio, com unidades de atendimento: os Centros Médicos Populares. Desafio: Organizar a rotina de venda que já existe nas unidades antes de expandir a rede. O que a gente faz: Projeto de expansão da rede, começando pela rotina comercial que já existe nas unidades: roteiros por origem do contato e treinamento de quem vende.
+- Clínica Saúde Sempre (Goiânia, GO): Clínica popular. Clínica popular de consultas e exames em Campinas, bairro de Goiânia. Desafio: A procura é maior do que a recepção consegue responder: as mensagens acumulam na fila. O que a gente faz: Sprint comercial: a fila do WhatsApp organizada, o CRM com os orçamentos em aberto, o treinamento da recepção e do agendamento e as metas da equipe.
+- Clínica Mais Vida (Nova Iguaçu, RJ): Clínica popular com duas unidades. Clínica popular da família com duas unidades, Cabuçu e KM 32, e a terceira prevista. Desafio: Dar às duas unidades a mesma presença digital e saber de onde vem cada paciente. O que a gente faz: Posicionamento, site, ficha do Google e campanhas nas duas unidades. Na sequência, a recepção com processo e o número de cada canal na mão do dono.
+- Policlínica Alpha (João Pessoa, PB): Policlínica. Policlínica no bairro de Jaguaribe, com uma frente de diagnóstico e outra de medicina do trabalho. Desafio: Distribuir a verba por especialidade e enxergar o que cada uma traz. O que a gente faz: Gestão de campanhas no Google e na Meta por especialidade, com os números das campanhas lidos ao vivo e o rastreamento de origem de cada paciente em andamento.
+- Centro Médico Três Elementos (Salvador, BA): Centro médico com consultas e exames. Centro médico de uma unidade no centro de Salvador, com consultas e exames. Desafio: Não tinha site nem conta de anúncios próprios. O que a gente faz: Site, conta de anúncios e campanhas por especialidade, montados do zero. O CRM da recepção é a etapa em andamento.
+- Unimedic (Cabo Frio, RJ): Clínica popular recém-inaugurada, com clube de benefícios. Clínica popular de uma unidade, recém-inaugurada em Unamar, com clube de benefícios. Desafio: Clínica nova, que precisa ficar conhecida na região e encher a agenda. O que a gente faz: Posicionamento, ficha do Google, site, Instagram e o funil comercial da recepção, com o clube de benefícios comunicado dentro desses mesmos canais.
+- Clínica Bem-Estar (Lauro de Freitas, BA): Clínica de consultas e exames. Centro de especialidades médicas, com consultas e exames, no centro de Lauro de Freitas. Desafio: Tem estrutura pra atender bem mais pacientes do que recebe hoje. O que a gente faz: Implantação completa: posicionamento, ficha do Google, site, campanhas, Instagram, CRM na recepção e o painel com os números.
+- Clínica de Olhos Benchimol (Rio de Janeiro, RJ): Clínica de especialidade. Clínica de olhos tradicional do Rio de Janeiro. Desafio: Ser citada quando o paciente pergunta a uma IA onde tratar os olhos. O que a gente faz: Projeto de autoridade em busca por IA: medir como a clínica aparece quando o paciente pergunta a uma IA e trabalhar o que ela precisa pra ser citada.
+- Ciclos Psicologia e Terapias (São Paulo, SP): Clínica de psicologia e terapias. Clínica de psicologia e terapias no Tatuapé. Desafio: Aparecer pra quem procura atendimento, dentro das regras do conselho de psicologia. O que a gente faz: Site novo, ficha do Google e campanhas, com o texto de cada canal dentro das regras do conselho de psicologia.
+- Meu ParceiRO (Rio das Ostras, RJ): Clube de benefícios em saúde, com clínica parceira. Clube de benefícios em saúde, ligado a uma clínica parceira em Rio das Ostras. Desafio: Explicar o clube com clareza e medir as adesões que cada campanha traz. O que a gente faz: Posicionamento, ficha do Google e o rastreamento das campanhas de adesão do clube, com site e páginas novas em aprovação.
 
 ## Presentes em 19 estados e 44 cidades, entre clínicas atendidas e donos na comunidade
 
@@ -191,7 +194,7 @@ Quem fala com a sua clínica é quem executa. Cada frente tem um responsável, e
 
 - Tráfego: Campanhas de anúncio, com rastreamento.
 - Conteúdo e design: Redes sociais, identidade e criativos.
-- Sites: Site, páginas e presença na busca.
+- Sites e páginas de venda: Site, páginas de venda (landing pages) e presença na busca.
 - CRM e automações: Atendimento da recepção com processo e retorno.
 - Comercial: Treinamento da recepção e rotina de venda.
 
@@ -221,7 +224,7 @@ Não. O trabalho começa arrumando o que acontece depois que o paciente chega, c
 
 ### Vou precisar parar a clínica?
 
-Não. A nossa equipe monta o site, as campanhas, o CRM e a automação. Da sua parte, precisamos de informação, aprovação do que vai ao ar e os acessos. São algumas horas ao longo das semanas.
+Não. A nossa equipe monta o site, as páginas de venda, as campanhas, o CRM e a automação. Da sua parte, precisamos de informação, aprovação do que vai ao ar e os acessos. São algumas horas ao longo das semanas.
 
 ### Por onde começar: Comunidade MCP ou PROClip?
 
@@ -302,7 +305,7 @@ Quem fala com o dono é quem executa. A equipe inteira trabalha no mesmo método
 
 - Tráfego: Campanhas, criativos e a medição de onde cada paciente veio.
 - Conteúdo e design: Redes sociais, identidade e criativos das clínicas.
-- Sites: Site, páginas e ficha do Google, feitos pra quem já procura consulta.
+- Sites e páginas de venda: Site, páginas de venda (landing pages) e ficha do Google, feitos pra quem já procura consulta.
 - CRM e automações: O WhatsApp da recepção com processo, follow-up e número.
 - Comercial: Treinamento da recepção e a rotina de venda dos projetos.
 
@@ -410,19 +413,22 @@ O que muda: a clínica mostra o valor que tem sem depender de preço.
 ### 2. Demanda qualificada
 
 Chegar no paciente certo, do jeito certo.
-Sabendo quem é o paciente, dá pra descobrir onde ele está e como falar com ele. Só aí faz sentido pensar em anúncio, escolhendo os canais que trazem o paciente certo. Antes disso, é dinheiro jogado fora.
+Sabendo quem é o paciente, dá pra descobrir onde ele está e como falar com ele. Só aí faz sentido pensar em rede social e em anúncio, escolhendo os canais certos, os que trazem o paciente certo. Antes disso, é dinheiro jogado fora.
+Demanda qualificada não é mais mensagem chegando. É chegar quem a clínica quer atender, no volume que a agenda comporta.
 O que muda: o dinheiro de anúncio traz quem a clínica quer atender.
 
 ### 3. Cultura de venda
 
-Conduzir quem chega até a cadeira.
-É onde a maioria perde dinheiro sem perceber: o paciente pergunta quanto é, recebe o preço e some. Aqui a recepção deixa de só atender e passa a conduzir o paciente até a cadeira. E o médico precisa saber quem sentou.
-O que muda: quem procurou a clínica vira consulta marcada.
+Um setor de vendas dentro da clínica.
+É onde a maioria perde dinheiro sem perceber. O paciente chegou, perguntou quanto é, a recepção respondeu o preço e sumiu. Não adianta a demanda chegar se ninguém conduz esse paciente até o agendamento.
+Por isso a clínica popular precisa ter um **setor de vendas**. Quem procura a clínica passa por um processo comercial até virar **consulta, exame e cartão de benefícios** vendidos. A recepção deixa de só atender. E o médico precisa saber quem sentou na frente dele.
+O que muda: quem procurou a clínica vira consulta, exame ou cartão vendido.
 
 ### 4. Controle
 
 Tudo em número, pra saber onde mexer.
-Com a demanda chegando e o comercial convertendo, tudo vira número. É ele que mostra se o problema está no marketing ou no comercial, e onde mexer. Sem número, o dono decide no escuro.
+Com a demanda chegando e o comercial convertendo, tudo vira número: quanto custou trazer cada paciente, quantos entraram em contato, quantos agendaram e foram.
+É isso que mostra se o problema está no marketing ou no comercial, e onde mexer. Sem número, o dono decide no escuro.
 O que muda: a decisão sai da sensação e vai pro número.
 
 O vídeo das etapas está sendo gravado. Tudo fica num lugar só, no celular ou no computador: o cronograma do projeto, o que foi feito, o que vem depois e o número de cada campanha.
@@ -441,7 +447,7 @@ A Comunidade do Manual da Clínica Popular reúne mais de 80 donos trocando o qu
 
 ### PROClip
 
-Programa especializado em clínica popular. A nossa equipe entra na clínica, levanta todos os gargalos e resolve o marketing e o comercial, com liderança e plano de ação.
+Programa de implementação da estrutura de marketing e comercial da clínica popular. A nossa equipe entra na clínica, levanta os gargalos e implementa, com liderança e plano de ação.
 
 - Diagnóstico da operação inteira, antes de qualquer proposta.
 - Plano de ação com responsável e prazo.
@@ -491,20 +497,20 @@ Clínica popular de bairro, rede de diagnóstico, clínica de especialidade e cl
 
 ## O que a gente faz em cada clínica popular e rede
 
-As fotos são das próprias clínicas. A linha abaixo é o escopo do trabalho, como está no projeto. Quem ainda não mandou foto aparece com a marca.
+As fotos são das próprias clínicas. Embaixo de cada uma, quem ela é, o desafio que trouxe e o que a gente faz, como está no projeto. Quem ainda não tem foto aparece com a marca.
 
-- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
-- Clínica Mais Med (Ipiaú, BA): Clínica popular. Implantação: ficha do Google, site, campanhas no Google e na Meta, Instagram e o CRM da recepção, com a gestão mensal de campanhas e conteúdo na sequência.
-- SaúdeVida (Santos, SP): Rede de cartão de benefícios com unidades próprias. Projeto de expansão da rede, começando pela rotina comercial que já existe nas unidades: roteiros por origem do contato e treinamento de quem vende.
-- Clínica Mais Vida (Nova Iguaçu, RJ): Clínica popular com duas unidades. Posicionamento, site, ficha do Google e campanhas nas duas unidades. Na sequência, a recepção com processo e o número de cada canal na mão do dono.
-- Centro Médico Três Elementos (Salvador, BA): Centro médico com consultas e exames. Site, conta de anúncios e campanhas por especialidade, montados do zero. O CRM da recepção é a etapa em andamento.
-- Unimedic (Cabo Frio, RJ): Clínica popular recém-inaugurada, com clube de benefícios. Posicionamento, ficha do Google, site, Instagram e o funil comercial da recepção, com o clube de benefícios comunicado dentro desses mesmos canais.
-- Policlínica Alpha (João Pessoa, PB): Policlínica com mais de uma unidade. Gestão de campanhas no Google e na Meta por especialidade, com os números das campanhas lidos ao vivo e o rastreamento de origem de cada paciente em andamento.
-- Clínica Bem-Estar (Lauro de Freitas, BA): Clínica de consultas e exames. Implantação completa: posicionamento, ficha do Google, site, campanhas, Instagram, CRM na recepção e o painel com os números.
-- Clínica Saúde Sempre (Goiânia, GO): Clínica popular. Sprint comercial: a fila do WhatsApp organizada, o CRM com os orçamentos em aberto, o treinamento da recepção e do agendamento e as metas da equipe.
-- Clínica de Olhos Benchimol (Rio de Janeiro, RJ): Clínica de especialidade. Projeto de autoridade em busca por IA: medir como a clínica aparece quando o paciente pergunta a uma IA e trabalhar o que ela precisa pra ser citada.
-- Ciclos Psicologia e Terapias (São Paulo, SP): Clínica de psicologia e terapias. Site novo, ficha do Google e campanhas, com o texto de cada canal dentro das regras do conselho de psicologia.
-- Meu ParceiRO (Rio das Ostras, RJ): Clube de benefícios em saúde, com clínica parceira. Posicionamento, ficha do Google e o rastreamento das campanhas de adesão do clube, com site e páginas novas em aprovação.
+- Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com várias unidades. Rede de diagnóstico com sete unidades na Zona Oeste e na Zona Norte do Rio. Desafio: Dar presença digital a cada unidade e organizar o comercial da rede. O que a gente faz: Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
+- Clínica Mais Med (Ipiaú, BA): Clínica popular. Clínica popular de uma unidade, fundada por um pediatra, no interior da Bahia. Desafio: Montar a estrutura digital do zero e levar a recepção pro CRM. O que a gente faz: Implantação: ficha do Google, site, campanhas no Google e na Meta, Instagram e o CRM da recepção, com a gestão mensal de campanhas e conteúdo na sequência.
+- SaúdeVida (Santos, SP): Rede de cartão de benefícios com unidades próprias. Convênio próprio, com unidades de atendimento: os Centros Médicos Populares. Desafio: Organizar a rotina de venda que já existe nas unidades antes de expandir a rede. O que a gente faz: Projeto de expansão da rede, começando pela rotina comercial que já existe nas unidades: roteiros por origem do contato e treinamento de quem vende.
+- Clínica Saúde Sempre (Goiânia, GO): Clínica popular. Clínica popular de consultas e exames em Campinas, bairro de Goiânia. Desafio: A procura é maior do que a recepção consegue responder: as mensagens acumulam na fila. O que a gente faz: Sprint comercial: a fila do WhatsApp organizada, o CRM com os orçamentos em aberto, o treinamento da recepção e do agendamento e as metas da equipe.
+- Clínica Mais Vida (Nova Iguaçu, RJ): Clínica popular com duas unidades. Clínica popular da família com duas unidades, Cabuçu e KM 32, e a terceira prevista. Desafio: Dar às duas unidades a mesma presença digital e saber de onde vem cada paciente. O que a gente faz: Posicionamento, site, ficha do Google e campanhas nas duas unidades. Na sequência, a recepção com processo e o número de cada canal na mão do dono.
+- Policlínica Alpha (João Pessoa, PB): Policlínica. Policlínica no bairro de Jaguaribe, com uma frente de diagnóstico e outra de medicina do trabalho. Desafio: Distribuir a verba por especialidade e enxergar o que cada uma traz. O que a gente faz: Gestão de campanhas no Google e na Meta por especialidade, com os números das campanhas lidos ao vivo e o rastreamento de origem de cada paciente em andamento.
+- Centro Médico Três Elementos (Salvador, BA): Centro médico com consultas e exames. Centro médico de uma unidade no centro de Salvador, com consultas e exames. Desafio: Não tinha site nem conta de anúncios próprios. O que a gente faz: Site, conta de anúncios e campanhas por especialidade, montados do zero. O CRM da recepção é a etapa em andamento.
+- Unimedic (Cabo Frio, RJ): Clínica popular recém-inaugurada, com clube de benefícios. Clínica popular de uma unidade, recém-inaugurada em Unamar, com clube de benefícios. Desafio: Clínica nova, que precisa ficar conhecida na região e encher a agenda. O que a gente faz: Posicionamento, ficha do Google, site, Instagram e o funil comercial da recepção, com o clube de benefícios comunicado dentro desses mesmos canais.
+- Clínica Bem-Estar (Lauro de Freitas, BA): Clínica de consultas e exames. Centro de especialidades médicas, com consultas e exames, no centro de Lauro de Freitas. Desafio: Tem estrutura pra atender bem mais pacientes do que recebe hoje. O que a gente faz: Implantação completa: posicionamento, ficha do Google, site, campanhas, Instagram, CRM na recepção e o painel com os números.
+- Clínica de Olhos Benchimol (Rio de Janeiro, RJ): Clínica de especialidade. Clínica de olhos tradicional do Rio de Janeiro. Desafio: Ser citada quando o paciente pergunta a uma IA onde tratar os olhos. O que a gente faz: Projeto de autoridade em busca por IA: medir como a clínica aparece quando o paciente pergunta a uma IA e trabalhar o que ela precisa pra ser citada.
+- Ciclos Psicologia e Terapias (São Paulo, SP): Clínica de psicologia e terapias. Clínica de psicologia e terapias no Tatuapé. Desafio: Aparecer pra quem procura atendimento, dentro das regras do conselho de psicologia. O que a gente faz: Site novo, ficha do Google e campanhas, com o texto de cada canal dentro das regras do conselho de psicologia.
+- Meu ParceiRO (Rio das Ostras, RJ): Clube de benefícios em saúde, com clínica parceira. Clube de benefícios em saúde, ligado a uma clínica parceira em Rio das Ostras. Desafio: Explicar o clube com clareza e medir as adesões que cada campanha traz. O que a gente faz: Posicionamento, ficha do Google e o rastreamento das campanhas de adesão do clube, com site e páginas novas em aprovação.
 
 ## Presentes em 19 estados e 44 cidades, entre clínicas atendidas e donos na comunidade
 
@@ -545,13 +551,13 @@ A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacient
 
 URL: https://clintia-br.github.io/site-clintia-previa/proclip/
 
-A nossa equipe implanta o método em 4 etapas na sua clínica popular, no prazo definido no diagnóstico: posicionamento, demanda, recepção e número.
+PROClip: programa de implementação da estrutura de marketing e comercial da clínica popular, em 4 etapas, feito pela nossa equipe dentro da clínica.
 
-Posicionamento, demanda qualificada, recepção que agenda e número na mão, colocados pra rodar com a equipe que você já tem. Você aprova o que vai ao ar; a execução é nossa.
+O PROClip é o programa de implementação da estrutura de marketing e comercial da clínica popular: posicionamento, demanda qualificada, recepção que vende e número na mão, colocados pra rodar com a equipe que você já tem. Você aprova o que vai ao ar; a execução é nossa.
 
 Sem aumentar a verba de mídia e sem parar a clínica pra implantar.
 
-## A diferença está no que fica pronto no fim
+## Um programa de implementação. A diferença está no que fica pronto no fim
 
 Agência costuma entregar campanha e relatório; consultoria, um plano que fica na gaveta. No PROClip, o que fica pronto no fim são as 4 etapas funcionando dentro da clínica: a clínica posicionada pra quem procura, os canais de demanda no ar, a recepção com processo pra conduzir até o agendamento e o painel com o custo de cada paciente por canal. Tudo montado pela nossa equipe, com a estrutura e as pessoas que já existem na sua clínica.
 Quem contrata não para de trabalhar pra implantar. Montar o conjunto, treinar a recepção e deixar tudo rodando é responsabilidade nossa. O que a gente pede da clínica está no cronograma, mais abaixo.
@@ -755,13 +761,13 @@ O valor vigente está sempre na página do produto, em proclip.com.br/apostila.
 
 URL: https://clintia-br.github.io/site-clintia-previa/contato/
 
-WhatsApp, e-mail e a Sessão Estratégica: 30 minutos, sem custo, olhando os números da sua clínica popular antes de qualquer proposta. Todo o Brasil.
+E-mail, Instagram, formulário e a Sessão Estratégica: 30 minutos, sem custo, olhando os números da sua clínica popular antes de qualquer proposta.
 
-O caminho mais rápido é o WhatsApp. Se o assunto é a sua clínica, melhor ainda: agende a Sessão Estratégica e a conversa já começa pelos números.
+Escreva por e-mail, pelo Instagram ou pelo formulário desta página. Se o assunto é a sua clínica, melhor ainda: agende a Sessão Estratégica e a conversa já começa pelos números.
 
 ### Vocês respondem em quanto tempo?
 
-No WhatsApp, dentro do horário comercial, no mesmo dia. E-mail em até um dia útil.
+E-mail e formulário, em até um dia útil. Mensagem no Instagram, no horário comercial.
 
 ### Atendem clínica fora do Rio?
 
@@ -769,7 +775,7 @@ Sim. O trabalho é remoto e já rodou em clínica de cidade do interior a capita
 
 ### Posso falar direto com o Bernardo?
 
-O diagnóstico de toda clínica que entra passa por ele. A Sessão Estratégica é com a nossa equipe, e o WhatsApp comercial também: dúvida rápida é respondida na hora e, quando for o caso, encaminhada pra ele.
+O diagnóstico de toda clínica que entra passa por ele. A Sessão Estratégica é com a nossa equipe: o que sai dela é encaminhado pra ele antes de qualquer proposta.
 
 ### A Sessão Estratégica tem custo?
 
