@@ -124,6 +124,29 @@
     mvs.forEach(function (m) { ioM.observe(m); });
   }
 
+  /* v7.2: para quem e. Trilho com rolagem nativa (o arraste no celular e do proprio navegador); as setas so aparecem quando
+     ha o que rolar e andam um cartao por clique. Com movimento reduzido a rolagem e seca (o CSS decide). */
+  d.querySelectorAll('[data-pub]').forEach(function (trilho) {
+    var nav = trilho.parentNode.querySelector('[data-pub-nav]');
+    if (!nav) return;
+    var prev = nav.querySelector('[data-pub-prev]'), next = nav.querySelector('[data-pub-next]');
+    var upd = function () {
+      var sobra = trilho.scrollWidth - trilho.clientWidth;
+      nav.hidden = sobra < 8;
+      prev.disabled = trilho.scrollLeft < 8;
+      next.disabled = trilho.scrollLeft > sobra - 8;
+    };
+    var passo = function (dir) {
+      var c = trilho.querySelector('.pub-card'), gap = parseFloat(getComputedStyle(trilho).columnGap) || 16;
+      trilho.scrollBy({ left: dir * ((c ? c.offsetWidth : 280) + gap) });
+    };
+    prev.addEventListener('click', function () { passo(-1); });
+    next.addEventListener('click', function () { passo(1); });
+    trilho.addEventListener('scroll', function () { raf(upd); }, { passive: true });
+    w.addEventListener('resize', upd);
+    upd();
+  });
+
   /* v6: mapa. Passar o mouse (ou focar) numa cidade da lista acende o pino dela. */
   d.querySelectorAll('[data-mapa]').forEach(function (box) {
     box.querySelectorAll('[data-pin-for]').forEach(function (li) {

@@ -15,8 +15,8 @@ Fatos principais:
 ## Páginas institucionais
 
 - [Marketing e comercial para clínica popular](https://clintia-br.github.io/site-clintia-previa/): o que a ClintIA faz e para quem
-- [Quem somos e por que só clínica popular](https://clintia-br.github.io/site-clintia-previa/sobre/): por que a ClintIA existe, por que só clínica popular, valores, fundador e equipe
-- [O que a gente faz na clínica popular](https://clintia-br.github.io/site-clintia-previa/o-que-a-gente-faz/): as duas pontas (demanda e comercial), as 4 etapas e os três jeitos de contratar
+- [Nossa história: por que só clínica popular](https://clintia-br.github.io/site-clintia-previa/sobre/): por que a ClintIA existe, por que só clínica popular, valores, fundador e equipe
+- [Quem somos: assessoria de clínica popular](https://clintia-br.github.io/site-clintia-previa/o-que-a-gente-faz/): as duas pontas (demanda e comercial), as 4 etapas e os três jeitos de contratar
 - [Clínicas populares que a gente atende](https://clintia-br.github.io/site-clintia-previa/clientes/): as clínicas atendidas, com a cidade e o que a ClintIA faz em cada uma
 - [PROClip: o método implantado na clínica popular](https://clintia-br.github.io/site-clintia-previa/proclip/): implantação feita pela equipe, como funciona, para quem é
 - [O Manual da Clínica Popular: o método no papel](https://clintia-br.github.io/site-clintia-previa/manual/): o método no papel, com área de membros e comunidade de donos de clínica popular

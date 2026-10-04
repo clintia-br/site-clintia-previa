@@ -18,8 +18,34 @@ Clínicas populares e redes de saúde que já trabalharam com a gente: Bandeiran
 
 A ClintIA só trabalha com clínica popular. São mais de 10 anos em marketing para a saúde. A gente entra na clínica, identifica os gargalos da operação e estrutura a solução, com equipe especializada e direção.
 
-- Geração de demanda: Posicionamento, presença onde o paciente procura e anúncio que traz quem já quer consulta.
-- Área comercial: Recepção com processo, equipe treinada e o número de cada etapa.
+- Geração de demanda: Posicionamos a clínica e geramos demanda qualificada, de acordo com o público que a clínica popular atende, com comunicação assertiva nos meios digitais.
+- Área comercial: Recepção com processo, equipe treinada e cultura de venda. Treinamento comercial, análise de números e direcionamento pra clínica crescer e expandir. Estruturação e venda do cartão de benefícios, ou só a venda, quando a clínica já tem o cartão.
+
+### 
+
+
+### Se você é dono de clínica popular, talvez se reconheça aqui
+
+- Você sente que está sozinho, que o problema é só da sua clínica.
+- Vive no operacional. Se passar uma semana fora, a clínica sente.
+- Já contratou agência, pagou e não resolveu.
+- Não sabe dizer se o problema está no marketing ou na recepção.
+- A clínica está cheia e o fim de mês continua apertado.
+
+**Não é só com você.** Tem dono com o mesmo faturamento passando por isso agora, e tem quem já passou e achou a saída. Existe método pra resolver.
+
+## Para qual clínica popular a gente trabalha
+
+- Está inaugurando: Clínica popular que abre as portas agora e quer começar do jeito certo.
+- É antiga e ficou sem digital: Tem anos de bairro e sente que não tem um digital moderno.
+- Estagnou: Parou de crescer e precisa de método pra crescer ou expandir.
+- Está em dificuldade: Cheia ou não, não consegue lucrar. Já tentou, e a margem não aparece.
+
+- Está inaugurando: Clínica popular que abre as portas agora e quer começar do jeito certo.
+- É antiga e ficou sem digital: Tem anos de bairro e sente que não tem um digital moderno.
+- Estagnou: Parou de crescer e precisa de método pra crescer ou expandir.
+- Está em dificuldade: Cheia ou não, não consegue lucrar. Já tentou, e a margem não aparece.
+
 
 ### O que muda pra quem é dono de clínica popular
 
@@ -31,15 +57,10 @@ A ClintIA só trabalha com clínica popular. São mais de 10 anos em marketing p
 - Posicionamento pra ser a primeira escolha: A clínica deixa de ser comparada só pelo preço da consulta.
 - Dono fora do operacional: Com processo e número, a clínica roda sem o dono apagando incêndio o dia inteiro.
 
-### Se você é dono de clínica popular, talvez se reconheça aqui
+### 
 
-- Você sente que está sozinho, que o problema é só da sua clínica.
-- Vive no operacional. Se passar uma semana fora, a clínica sente.
-- Já contratou agência, pagou e não resolveu.
-- Não sabe dizer se o problema está no marketing ou na recepção.
-- A clínica está cheia e o fim de mês continua apertado.
 
-**Não é só com você.** Tem dono com o mesmo faturamento passando por isso agora, e tem quem já passou e achou a saída. Existe método pra resolver.
+
 
 ## A ClintIA trabalha em duas frentes com a clínica popular
 
@@ -93,7 +114,7 @@ Tudo em número, pra saber onde mexer.
 Com a demanda chegando e o comercial convertendo, tudo vira número. É ele que mostra se o problema está no marketing ou no comercial. Sem número, o dono decide no escuro.
 O que muda: a decisão sai da sensação e vai pro número.
 
-O vídeo das etapas está sendo gravado. Enquanto isso, cada etapa está explicada na página do que a gente faz.
+O vídeo das etapas está sendo gravado. Enquanto isso, cada etapa está explicada na página Quem somos.
 
 ## Veja se você se reconhece nestes dois donos de clínica popular
 
@@ -312,7 +333,7 @@ O jeito de o paciente procurar clínica popular muda pouco de uma cidade pra out
 
 ## Quer saber se faz sentido pra sua clínica?
 
-Comece pelo que a gente faz. Está no site, etapa por etapa, pra você ler antes de falar com a gente. Se fizer sentido, são dois caminhos: a comunidade, pra aplicar com a sua equipe, ou o PROClip, com a nossa equipe dentro da clínica.
+Comece por quem somos e pelo que a gente faz. Está no site, etapa por etapa, pra você ler antes de falar com a gente. Se fizer sentido, são dois caminhos: a comunidade, pra aplicar com a sua equipe, ou o PROClip, com a nossa equipe dentro da clínica.
 
 ### O Bernardo participa dos projetos ou só vende?
 
@@ -332,13 +353,13 @@ Sim, e dizemos isso abertamente. Pesquisa, análise de concorrência e a primeir
 
 ---
 
-# A gente estrutura o marketing e o comercial da clínica popular.
+# Uma assessoria especializada, que estrutura o marketing e o comercial da clínica popular.
 
 URL: https://clintia-br.github.io/site-clintia-previa/o-que-a-gente-faz/
 
-Geração de demanda e área comercial, as duas pontas da clínica popular, em 4 etapas. E os três jeitos de contratar: Manual, PROClip ou sob medida.
+A ClintIA é uma assessoria especializada em clínica popular: geração de demanda e área comercial, em 4 etapas, em duas frentes: EdTech e Assessoria.
 
-Da geração de demanda até a venda na recepção, com uma equipe capacitada e especializada. A gente entra na clínica, arruma as duas pontas na ordem certa e deixa o dono com os números na mão.
+A ClintIA só trabalha com clínica popular. São mais de 10 anos em marketing para a saúde. A gente entra na clínica, identifica os gargalos da operação e estrutura a solução, com equipe especializada e direção.
 
 ## As duas pontas da clínica popular: quem traz o paciente e quem fecha a consulta
 
@@ -346,21 +367,31 @@ Clínica popular precisa das duas frentes, marketing e comercial, como qualquer 
 
 ### Geração de demanda
 
-- **Posicionamento.** Quem é o paciente da clínica, qual é o carro-chefe e por que ele escolheria você, e não a esquina. Por escrito, pra toda comunicação sair do mesmo lugar.
-- **Ficha do Google.** Arrumada, com fotos reais e rotina de avaliações. É a primeira coisa que o paciente vê.
-- **Site rápido no celular**, feito pra busca e pra quem pergunta pra IA qual clínica popular tem perto.
-- **Anúncios no Google e na Meta** com rastreamento de origem: o custo de cada paciente que chegou, por canal, e não o custo do clique.
-- **Instagram como vitrine.** Quem acha a clínica no Google abre o Instagram pra confirmar que ela existe e é séria.
+- **Posicionamento.** Pesquisa de mercado, pesquisa de concorrência e o DPV, o documento que diz quem é o público da clínica e como se conversa com ele.
+- **Demanda qualificada.** Anúncio pra quem a clínica quer atender, de acordo com o público que a clínica popular atende.
+- **Comunicação assertiva nos meios digitais.** A clínica dizendo a mesma coisa onde o paciente procura, onde ele confere e onde ele agenda.
+- **Rastreamento de origem.** O custo de cada paciente que chegou, por canal, e não o custo do clique.
 
 ### Área comercial
 
-- **CRM no WhatsApp da recepção**, com funil em colunas: novo, em atendimento, orçamento enviado, agendado, compareceu.
-- **Primeira resposta em minutos**, automática, sem depender de alguém estar livre.
-- **Treinamento da recepção**: o que responder no "quanto é?", como conduzir até o agendamento e como usar o CRM no dia a dia.
-- **Follow-up** de quem pediu preço e sumiu, e **reativação** de quem já passou pela clínica e não voltou.
-- **Os números da clínica**: quanto custou o clique, quem entrou em contato, quanto custou quem agendou e foi. Isso vem com dado, não com sensação.
+- **Recepção com processo e cultura de venda.** Quem atende deixa de só responder e passa a conduzir o paciente até a cadeira.
+- **Treinamento comercial** da equipe: o que responder no "quanto é?", como conduzir até o agendamento e como voltar em quem sumiu.
+- **Análise de números e direcionamento comercial**, pra clínica crescer e expandir sabendo onde mexer.
+- **Cartão de benefícios.** Estruturação e venda do cartão, ou só a venda, quando a clínica já tem o cartão.
 
 Pior do que não gerar demanda é gerar demanda errada. Por isso a ponta 2 é montada junto com a ponta 1, e não depois que a verba já foi gasta.
+
+## Para qual clínica popular a gente trabalha
+
+- Está inaugurando: Clínica popular que abre as portas agora. Posicionamento, demanda e recepção montados desde o primeiro dia, antes de gastar verba no lugar errado.
+- É antiga e ficou sem digital: Tem anos de bairro, paciente fiel e nome conhecido, mas sente que não tem um digital moderno. Quem procura clínica hoje não acha a sua.
+- Estagnou: Parou de crescer. A agenda é a mesma há anos, e o dono quer crescer ou abrir outra unidade sem saber por onde.
+- Está em dificuldade: Cheia ou não, não consegue lucrar. Já tentou agência, anúncio e promoção, e a margem não aparece.
+
+- Está inaugurando: Clínica popular que abre as portas agora. Posicionamento, demanda e recepção montados desde o primeiro dia, antes de gastar verba no lugar errado.
+- É antiga e ficou sem digital: Tem anos de bairro, paciente fiel e nome conhecido, mas sente que não tem um digital moderno. Quem procura clínica hoje não acha a sua.
+- Estagnou: Parou de crescer. A agenda é a mesma há anos, e o dono quer crescer ou abrir outra unidade sem saber por onde.
+- Está em dificuldade: Cheia ou não, não consegue lucrar. Já tentou agência, anúncio e promoção, e a margem não aparece.
 
 ## Dr. Consulta e Amor Saúde não cresceram por ter mais dinheiro. Cresceram porque seguem um método.
 
@@ -416,35 +447,17 @@ Programa especializado em clínica popular. A nossa equipe entra na clínica, le
 - Plano de ação com responsável e prazo.
 - Execução pela nossa equipe, com a liderança acompanhando.
 
-## Três jeitos de levar isso pra sua clínica popular
-
-O trabalho é o mesmo. O que muda é quem executa e o tamanho da operação.
-
-- A porta de entrada O Manual da Clínica Popular: O método escrito, etapa por etapa, pra aplicar com a equipe que você já tem, começando pelo WhatsApp da recepção. Vem com a área de membros, as ferramentas e a comunidade de donos de clínica popular.
-- Implantação feita pela nossa equipe PROClip: A nossa equipe entra na clínica e monta as duas pontas, no prazo definido no diagnóstico. Você valida informação e aprova o que vai ao ar; a execução é nossa. Pra clínica popular, policlínica ou centro de diagnóstico que já tem operação rodando.
-- Pra rede e multiunidade Projeto sob medida: Pra rede com várias unidades ou operação maior, o trabalho é desenhado sob medida: gestão comercial da rede, treinamento de recepção e de pré-venda, posicionamento e identidade da marca. Começa por um diagnóstico da operação, unidade por unidade.
-
 ## Quando a clínica virou rede, o desenho é outro
 
 Rede que cresceu tem um problema que a clínica de uma unidade não tem: cada recepção vende de um jeito, o que funciona numa unidade não chega na outra e o dono não consegue comparar. Pra rede, o trabalho começa por um diagnóstico unidade por unidade e junta o que ela precisa: um processo só de atendimento e venda, o mesmo CRM, número por unidade, treinamento de quem responde o WhatsApp e a marca falando do mesmo jeito em todas as fachadas.
 
 Não existe pacote nem tabela pra isso. Cada projeto tem escopo e prazo próprios, definidos depois do diagnóstico.
 
-## Cinco perguntas. Cada "sim" aponta a ponta que está travando.
-
-- A sua clínica é escolhida por ser a mais barata da região?: Demanda · posicionamento
-- Você paga anúncio e não sabe quantos pacientes ele trouxe?: Demanda · rastreamento
-- O "quanto é?" recebe só o preço, e ninguém volta em quem sumiu?: Comercial · recepção
-- Cada atendente responde de um jeito?: Comercial · processo
-- A verba do mês é decidida pela sensação da semana passada?: Controle
-
-Respondeu sim a uma: é por aí que a gente começaria. Sim a três ou mais: o problema é a falta do conjunto, e é isso que a Sessão Estratégica olha primeiro.
-
 ## Perguntas diretas, respostas diretas
 
 ## Vamos olhar os números da sua clínica
 
-Trinta minutos com a nossa equipe, sem custo. Você traz quantos pacientes procuram por mês, quantos fecham e quanto vai em mídia. A gente devolve um diagnóstico e diz qual dos três caminhos faz sentido, ou se nenhum faz agora.
+Trinta minutos com a nossa equipe, sem custo. Você traz quantos pacientes procuram por mês, quantos fecham e quanto vai em mídia. A gente devolve um diagnóstico e diz qual das duas frentes faz sentido, ou se nenhuma faz agora.
 
 ### Vocês fazem só uma parte, tipo só tráfego ou só CRM?
 
