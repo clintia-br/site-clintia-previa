@@ -21,10 +21,12 @@ Fatos principais:
 - [PROClip®: o método implantado na clínica popular](https://clintia-br.github.io/site-clintia-previa/proclip/): implantação feita pela equipe, como funciona, para quem é
 - [O Manual da Clínica Popular®: o método no papel](https://clintia-br.github.io/site-clintia-previa/manual/): o método no papel, com área de membros e comunidade de donos de clínica popular
 - [Fale com a gente sobre a sua clínica popular](https://clintia-br.github.io/site-clintia-previa/contato/): e-mail, Instagram e formulário
+- [Política de privacidade do site](https://clintia-br.github.io/site-clintia-previa/privacidade/): quais dados o site coleta, para que servem e como pedir acesso ou exclusão
 
 ## Blog
 
 - [Índice do blog](https://clintia-br.github.io/site-clintia-previa/blog/): artigos sobre gestão comercial de clínica popular
+- [Como diminuir a dependência de convênio sem esvaziar a agenda da clínica](https://clintia-br.github.io/site-clintia-previa/blog/como-diminuir-a-dependencia-de-convenio/): Como diminuir a dependência de convênio na clínica popular em 5 passos: o valor real do convênio, o paciente particular, a agenda e o cartão de benefícios.
 - [Marketing para clínica popular começa no Google, não no Instagram](https://clintia-br.github.io/site-clintia-previa/blog/marketing-para-clinica-popular/): Marketing para clínica popular: por que o paciente decide no Google e no WhatsApp, a ordem certa de montar (comercial antes de mídia) e o CAP por canal.
 - [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia-br.github.io/site-clintia-previa/blog/custo-de-aquisicao-de-paciente/): Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.
 - [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia-br.github.io/site-clintia-previa/blog/quanto-custa-a-consulta-whatsapp/): Paciente perguntou quanto custa a consulta no WhatsApp? Diga o valor, pergunte antes e ofereça horário junto. Script em 4 movimentos e conversa modelo.
